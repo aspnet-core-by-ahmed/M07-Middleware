@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Professor\\Desktop\\GITHUB\\ASP.NET CORE API (GITHUB)\\M07-Middleware\\M04-AvoidCallingNextAfterResponse\\M04-AvoidCallingNextAfterResponse.csproj": {}
+    "c:\\Users\\Professor\\Desktop\\GITHUB\\ASP.NET CORE API (GITHUB)\\M07-Middleware\\M04-AvoidCallingNextAfterResponse\\M04-AvoidCallingNextAfterResponse.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Professor\\Desktop\\GITHUB\\ASP.NET CORE API (GITHUB)\\M07-Middleware\\M04-AvoidCallingNextAfterResponse\\M04-AvoidCallingNextAfterResponse.csproj": {
+    "c:\\Users\\Professor\\Desktop\\GITHUB\\ASP.NET CORE API (GITHUB)\\M07-Middleware\\M04-AvoidCallingNextAfterResponse\\M04-AvoidCallingNextAfterResponse.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Professor\\Desktop\\GITHUB\\ASP.NET CORE API (GITHUB)\\M07-Middleware\\M04-AvoidCallingNextAfterResponse\\M04-AvoidCallingNextAfterResponse.csproj",
+        "projectUniqueName": "c:\\Users\\Professor\\Desktop\\GITHUB\\ASP.NET CORE API (GITHUB)\\M07-Middleware\\M04-AvoidCallingNextAfterResponse\\M04-AvoidCallingNextAfterResponse.csproj",
         "projectName": "M04-AvoidCallingNextAfterResponse",
-        "projectPath": "C:\\Users\\Professor\\Desktop\\GITHUB\\ASP.NET CORE API (GITHUB)\\M07-Middleware\\M04-AvoidCallingNextAfterResponse\\M04-AvoidCallingNextAfterResponse.csproj",
+        "projectPath": "c:\\Users\\Professor\\Desktop\\GITHUB\\ASP.NET CORE API (GITHUB)\\M07-Middleware\\M04-AvoidCallingNextAfterResponse\\M04-AvoidCallingNextAfterResponse.csproj",
         "packagesPath": "C:\\Users\\Professor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Professor\\Desktop\\GITHUB\\ASP.NET CORE API (GITHUB)\\M07-Middleware\\M04-AvoidCallingNextAfterResponse\\obj\\",
+        "outputPath": "c:\\Users\\Professor\\Desktop\\GITHUB\\ASP.NET CORE API (GITHUB)\\M07-Middleware\\M04-AvoidCallingNextAfterResponse\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Professor\\AppData\\Roaming\\NuGet\\NuGet.Config"

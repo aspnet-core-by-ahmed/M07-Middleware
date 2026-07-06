@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Professor\\Desktop\\GITHUB\\ASP.NET CORE API (GITHUB)\\M07-Middleware\\M05-MiddlewareChaining\\M05-MiddlewareChaining.csproj": {}
+    "c:\\Users\\Professor\\Desktop\\GITHUB\\ASP.NET CORE API (GITHUB)\\M07-Middleware\\M06-MiddlewareOrderIsCritical\\M06-MiddlewareOrderIsCritical.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Professor\\Desktop\\GITHUB\\ASP.NET CORE API (GITHUB)\\M07-Middleware\\M05-MiddlewareChaining\\M05-MiddlewareChaining.csproj": {
+    "c:\\Users\\Professor\\Desktop\\GITHUB\\ASP.NET CORE API (GITHUB)\\M07-Middleware\\M06-MiddlewareOrderIsCritical\\M06-MiddlewareOrderIsCritical.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Professor\\Desktop\\GITHUB\\ASP.NET CORE API (GITHUB)\\M07-Middleware\\M05-MiddlewareChaining\\M05-MiddlewareChaining.csproj",
-        "projectName": "M05-MiddlewareChaining",
-        "projectPath": "c:\\Users\\Professor\\Desktop\\GITHUB\\ASP.NET CORE API (GITHUB)\\M07-Middleware\\M05-MiddlewareChaining\\M05-MiddlewareChaining.csproj",
+        "projectUniqueName": "c:\\Users\\Professor\\Desktop\\GITHUB\\ASP.NET CORE API (GITHUB)\\M07-Middleware\\M06-MiddlewareOrderIsCritical\\M06-MiddlewareOrderIsCritical.csproj",
+        "projectName": "M06-MiddlewareOrderIsCritical",
+        "projectPath": "c:\\Users\\Professor\\Desktop\\GITHUB\\ASP.NET CORE API (GITHUB)\\M07-Middleware\\M06-MiddlewareOrderIsCritical\\M06-MiddlewareOrderIsCritical.csproj",
         "packagesPath": "C:\\Users\\Professor\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Professor\\Desktop\\GITHUB\\ASP.NET CORE API (GITHUB)\\M07-Middleware\\M05-MiddlewareChaining\\obj\\",
+        "outputPath": "c:\\Users\\Professor\\Desktop\\GITHUB\\ASP.NET CORE API (GITHUB)\\M07-Middleware\\M06-MiddlewareOrderIsCritical\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Professor\\AppData\\Roaming\\NuGet\\NuGet.Config"
