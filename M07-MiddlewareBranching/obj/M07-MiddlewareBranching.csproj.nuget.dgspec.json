@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Professor\\Desktop\\GITHUB\\ASP.NET CORE API (GITHUB)\\M07-Middleware\\M07-MiddlewareBranching\\M07-MiddlewareBranching.csproj": {}
+    "c:\\Users\\Professor\\Desktop\\GITHUB\\ASP.NET CORE API (GITHUB)\\M07-Middleware\\M07-MiddlewareBranching\\M07-MiddlewareBranching.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Professor\\Desktop\\GITHUB\\ASP.NET CORE API (GITHUB)\\M07-Middleware\\M07-MiddlewareBranching\\M07-MiddlewareBranching.csproj": {
+    "c:\\Users\\Professor\\Desktop\\GITHUB\\ASP.NET CORE API (GITHUB)\\M07-Middleware\\M07-MiddlewareBranching\\M07-MiddlewareBranching.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Professor\\Desktop\\GITHUB\\ASP.NET CORE API (GITHUB)\\M07-Middleware\\M07-MiddlewareBranching\\M07-MiddlewareBranching.csproj",
+        "projectUniqueName": "c:\\Users\\Professor\\Desktop\\GITHUB\\ASP.NET CORE API (GITHUB)\\M07-Middleware\\M07-MiddlewareBranching\\M07-MiddlewareBranching.csproj",
         "projectName": "M07-MiddlewareBranching",
-        "projectPath": "C:\\Users\\Professor\\Desktop\\GITHUB\\ASP.NET CORE API (GITHUB)\\M07-Middleware\\M07-MiddlewareBranching\\M07-MiddlewareBranching.csproj",
+        "projectPath": "c:\\Users\\Professor\\Desktop\\GITHUB\\ASP.NET CORE API (GITHUB)\\M07-Middleware\\M07-MiddlewareBranching\\M07-MiddlewareBranching.csproj",
         "packagesPath": "C:\\Users\\Professor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Professor\\Desktop\\GITHUB\\ASP.NET CORE API (GITHUB)\\M07-Middleware\\M07-MiddlewareBranching\\obj\\",
+        "outputPath": "c:\\Users\\Professor\\Desktop\\GITHUB\\ASP.NET CORE API (GITHUB)\\M07-Middleware\\M07-MiddlewareBranching\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Professor\\AppData\\Roaming\\NuGet\\NuGet.Config"
