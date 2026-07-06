@@ -1,0 +1,13 @@
+@baseURL = http://localhost:5152
+
+
+###
+GET {{baseURL}}
+
+
+###
+GET {{baseURL}}/branch1
+
+
+###
+GET {{baseURL}}/branch2
