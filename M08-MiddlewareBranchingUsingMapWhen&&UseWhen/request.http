@@ -1,0 +1,11 @@
+@baseURL = http://localhost:5124
+
+Get {{baseURL}}/checkout
+
+
+###
+Get {{baseURL}}/checkout?mode=new
+
+
+###
+GET {{baseURL}}/branch1
